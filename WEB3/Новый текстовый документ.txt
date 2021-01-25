@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+  <title>My Skills </title>   
+</head>
+<body background="it.png">
+    <center><p>My Skills </p></center>
+    <h2><a href="C:\Users\mrert\OneDrive\Рабочий стол\WEB3\Untitled-2.html"> Home</a>
+    <hr>
+<ul>
+    <li>My sklills, it's...</li>
+</ul>
+
+
+
+    </body>
+    
